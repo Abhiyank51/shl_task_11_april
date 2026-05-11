@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+pytest
+rapidfuzz
+scikit-learn
+numpy
+openai
+langgraph
+httpx
+sentence-transformers
+faiss-cpu

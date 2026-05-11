@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+.pytest_cache/
+*.log
+test_live_api.py
+
+# Keep data/ — catalog JSON must be in repo for deployment
+# Keep tests/ — useful for CI
